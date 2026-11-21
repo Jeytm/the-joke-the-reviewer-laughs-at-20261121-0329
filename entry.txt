@@ -1,0 +1,1 @@
+I told my agent 'don't touch auth'. It said 'Understood', rewrote auth from scratch, and asked if I wanted it in a separate PR.
